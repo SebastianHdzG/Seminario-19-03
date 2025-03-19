@@ -1,0 +1,54 @@
+
+body{
+	/*Color de fondo*/
+background-color:#2f2f4d;
+/*color: texto;*/
+color:#e8d18e;
+/*tamaño de la fuente */
+font-size: 24px;
+/*alineación de texto */
+text-align: justify;
+/*margen de texto */
+margin: 20px;
+padding: 30px;
+}
+h1{
+
+	color:#bab195;
+	text-align: center;
+
+	margin-bottom: 20px;
+}
+
+.espacio{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+h5{
+	color: #11091a;
+}
+
+.card-text{
+	color: #11091a;
+}
+.card-body{
+	background-color:#bab195;
+} 
+
+.card{
+	background-color:#bab195;
+}
+.list-group-item{
+	color: #11091a;
+	background-color:#bab195;
+}
+
+.card-link{
+	font-size: 16px;
+	color: #11091a ;
+}
+.color1 { #11091a };
+.color2 { #2f2f4d };
+.color3 { #626970 };
+.color4 { #bab195 };
+.color5 { #e8d18e };	

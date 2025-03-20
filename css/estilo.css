@@ -47,6 +47,15 @@ h5{
 	font-size: 16px;
 	color: #11091a ;
 }
+
+.card-footer{
+	color: #11091a;
+}
+.card-header{
+	color:#11091a ;
+}
+
+
 .color1 { #11091a };
 .color2 { #2f2f4d };
 .color3 { #626970 };
